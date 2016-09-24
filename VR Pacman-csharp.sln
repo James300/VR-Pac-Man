@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{96CB7F26-AFE1-625A-E5C0-5504F0BE70E5}") = "VR Pacman", "Assembly-CSharp-vs.csproj", "{B3F48380-8841-C46A-AE4A-D13E0EE8634D}"
+EndProject
+Project("{96CB7F26-AFE1-625A-E5C0-5504F0BE70E5}") = "VR Pacman", "Assembly-CSharp-Editor-vs.csproj", "{D12C9735-8B56-6858-D921-C54579E7CAD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F48380-8841-C46A-AE4A-D13E0EE8634D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F48380-8841-C46A-AE4A-D13E0EE8634D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F48380-8841-C46A-AE4A-D13E0EE8634D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F48380-8841-C46A-AE4A-D13E0EE8634D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12C9735-8B56-6858-D921-C54579E7CAD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12C9735-8B56-6858-D921-C54579E7CAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12C9735-8B56-6858-D921-C54579E7CAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12C9735-8B56-6858-D921-C54579E7CAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
